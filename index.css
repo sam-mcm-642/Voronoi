@@ -1,0 +1,100 @@
+/* Define a class for area strokes */
+.area-stroke {
+    stroke-opacity: .4; /* Set the stroke opacity to fully opaque */
+  }
+  
+  /* Define a class for nation strokes */
+  .nation-stroke {
+    stroke-opacity: 0.5; /* Adjust the stroke opacity as needed */
+  }
+
+  body {
+    background-color: #181821; /* Change to the color you desire */
+}
+
+#visualization {
+  padding: 40px; /* Adjust the value as needed */
+  position: relative;
+  z-index: 1;
+}
+
+
+.tooltip {
+  position: absolute;
+  padding: 10px;
+  background-color: rgb(181, 183, 153);
+  color: rgb(0, 0, 0);
+  border: 1px solid white;
+  border-radius: 10px;
+  display: none;
+  opacity: .75;
+}
+
+h1 {
+  font-size: 80px;
+  color: #d1cebd;
+  
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2 {
+  font-size: 20px;
+  color: #d1cebd;
+  
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h3 {
+  font-size: 20px;
+  color: #d1cebd;
+  
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h4 {
+  font-size: 20px;
+  color: #d1cebd;
+  
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+  margin-top: 25px;
+  font-size: 20px;
+  color: #181821;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+
+
+#visualization {
+  width: 50%;
+  height: 100%;
+  float: left;
+}
+
+#info-panel {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 50%;
+  height: 100%;
+  background-color: #d1cebd; /* Example background color */
+  padding: 20px;
+  box-sizing: border-box;
+  opacity: .95;
+}
+
+#legend {
+  position: relative;
+  background-color: #d1cebd;
+  height: 190px;
+  opacity: .8;
+  margin-top: 40px;
+}

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- <script src="d3.min.js" charset="utf-8"></script> -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://unpkg.com/d3-weighted-voronoi"></script>
+    <script src="https://unpkg.com/d3-voronoi-map"></script>
+    <script src="d3-voronoi-treemap.min.js" charset="utf-8"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/seedrandom/2.4.3/seedrandom.min.js"></script>
+
+    <meta content="utf-8" http-equiv="encoding">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Voronoi Visualization</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <div id="container">
+        <svg id="visualization"></svg>
+        <div id="info-panel">
+            <h1>D.E.A.D's Revenue Across The World</h1>
+            <h2>This is D.E.A.D's intake of revenue by Nation and Area. Each Nation or Area call size represents the
+                proportion of revenue coming from that area</h2>
+            <div id="legend">
+                <p> - LateOrders: The proportion of orders delivered to a Nation with a delivery time of over 20 days
+                </p>
+                <p> </p>
+                <p> </p>
+                <p>.</p>
+                <p> - HighValueOrders: The number of orders delivered to a Nation with a Cart Price of over 25,000
+                    Copper
+                    Pieces</p>
+            </div>
+            <h3>Some Interesting Observations:</h3>
+            <h4>
+                <ul>
+                    <li>There are a select amount of nations where nearly all of the high value orders are coming from
+                    </li>
+                    <li>The East seem to have the biggest issues with late orders</li>
+                </ul>
+            </h4>
+
+        </div>
+    </div>
+    <script src="alt.js"></script>
+    <div id="tooltip"></div>
+    <div id="dropdown"></div>
+    <div class="tooltip"></div>
+
+</body>
+
+</html>

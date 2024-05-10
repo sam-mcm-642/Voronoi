@@ -1,0 +1,369 @@
+{
+    "East": {
+        "Nations": [
+            {
+                "Nation": "Aglarond",
+                "LateOrders": 0.033,
+                "TotalRevenue": 55143654,
+                "HighValueOrders": 20
+            },
+            {
+                "Nation": "Durpar",
+                "LateOrders": 0.042,
+                "TotalRevenue": 46699151,
+                "HighValueOrders": 323
+            },
+            {
+                "Nation": "Estagund",
+                "LateOrders": 0.03,
+                "TotalRevenue": 17841118,
+                "HighValueOrders": 110
+            },
+            {
+                "Nation": "Great Dale",
+                "LateOrders": 0.042,
+                "TotalRevenue": 16277374,
+                "HighValueOrders": 8
+            },
+            {
+                "Nation": "Kara-Tur",
+                "LateOrders": 0.031,
+                "TotalRevenue": 27320097,
+                "HighValueOrders": 33
+            },
+            {
+                "Nation": "Mulhorand",
+                "LateOrders": 0.039,
+                "TotalRevenue": 5884963,
+                "HighValueOrders": 4
+            },
+            {
+                "Nation": "Murghom",
+                "LateOrders": 0.028,
+                "TotalRevenue": 20180946,
+                "HighValueOrders": 16
+            },
+            {
+                "Nation": "Narfell",
+                "LateOrders": 0.028,
+                "TotalRevenue": 11004428,
+                "HighValueOrders": 3
+            },
+            {
+                "Nation": "Thay",
+                "LateOrders": 0.037,
+                "TotalRevenue": 80772848,
+                "HighValueOrders": 253
+            },
+            {
+                "Nation": "Thesk",
+                "LateOrders": 0.041,
+                "TotalRevenue": 38630618,
+                "HighValueOrders": 23
+            },
+            {
+                "Nation": "Unther",
+                "LateOrders": 0.04,
+                "TotalRevenue": 21027987,
+                "HighValueOrders": 10
+            },
+            {
+                "Nation": "Veldorn",
+                "LateOrders": 0.043,
+                "TotalRevenue": 7612986,
+                "HighValueOrders": 7
+            },
+            {
+                "Nation": "Zakhara",
+                "LateOrders": 0.036,
+                "TotalRevenue": 15185426,
+                "HighValueOrders": 10
+            }
+        ],
+        "TotalRevenue": 363581596
+    },
+    "West": {
+        "Nations": [
+            {
+                "Nation": "Alaron",
+                "LateOrders": 0.034,
+                "TotalRevenue": 67079758,
+                "HighValueOrders": 165
+            },
+            {
+                "Nation": "Arn Rock",
+                "LateOrders": 0.033,
+                "TotalRevenue": 8467293,
+                "HighValueOrders": 5
+            },
+            {
+                "Nation": "Chult",
+                "LateOrders": 0.036,
+                "TotalRevenue": 22608444,
+                "HighValueOrders": 12
+            },
+            {
+                "Nation": "Gundarlund",
+                "LateOrders": 0.031,
+                "TotalRevenue": 8905909,
+                "HighValueOrders": 3
+            },
+            {
+                "Nation": "Korinn Archipelego",
+                "LateOrders": 0.037,
+                "TotalRevenue": 50594131,
+                "HighValueOrders": 29
+            },
+            {
+                "Nation": "Lantan",
+                "LateOrders": 0.031,
+                "TotalRevenue": 20415126,
+                "HighValueOrders": 10
+            },
+            {
+                "Nation": "Maztica",
+                "LateOrders": 0.034,
+                "TotalRevenue": 29089975,
+                "HighValueOrders": 18
+            },
+            {
+                "Nation": "Mintarn",
+                "LateOrders": 0.043,
+                "TotalRevenue": 7228828,
+                "HighValueOrders": 2
+            },
+            {
+                "Nation": "Norland",
+                "LateOrders": 0.038,
+                "TotalRevenue": 35647879,
+                "HighValueOrders": 93
+            },
+            {
+                "Nation": "Purple Rock Isles",
+                "LateOrders": 0.032,
+                "TotalRevenue": 5821842,
+                "HighValueOrders": 4
+            },
+            {
+                "Nation": "Ruathym",
+                "LateOrders": 0.044,
+                "TotalRevenue": 7804537,
+                "HighValueOrders": 12
+            },
+            {
+                "Nation": "Snowdown",
+                "LateOrders": 0.034,
+                "TotalRevenue": 23959887,
+                "HighValueOrders": 11
+            },
+            {
+                "Nation": "Tharsult",
+                "LateOrders": 0.041,
+                "TotalRevenue": 8074600,
+                "HighValueOrders": 4
+            },
+            {
+                "Nation": "Whalebone Isles",
+                "LateOrders": 0.033,
+                "TotalRevenue": 7622789,
+                "HighValueOrders": 5
+            }
+        ],
+        "TotalRevenue": 303320998
+    },
+    "South": {
+        "Nations": [
+            {
+                "Nation": "Amn",
+                "LateOrders": 0.037,
+                "TotalRevenue": 157115496,
+                "HighValueOrders": 415
+            },
+            {
+                "Nation": "Calimshan",
+                "LateOrders": 0.034,
+                "TotalRevenue": 96974699,
+                "HighValueOrders": 187
+            },
+            {
+                "Nation": "Chessentea",
+                "LateOrders": 0.037,
+                "TotalRevenue": 88774308,
+                "HighValueOrders": 350
+            },
+            {
+                "Nation": "Chondath",
+                "LateOrders": 0.035,
+                "TotalRevenue": 75742400,
+                "HighValueOrders": 44
+            },
+            {
+                "Nation": "Dambrath",
+                "LateOrders": 0.031,
+                "TotalRevenue": 28734016,
+                "HighValueOrders": 16
+            },
+            {
+                "Nation": "Halruaa",
+                "LateOrders": 0.033,
+                "TotalRevenue": 76742918,
+                "HighValueOrders": 50
+            },
+            {
+                "Nation": "Lapaliiya & Thindol",
+                "LateOrders": 0.038,
+                "TotalRevenue": 66050478,
+                "HighValueOrders": 215
+            },
+            {
+                "Nation": "Luiren",
+                "LateOrders": 0.038,
+                "TotalRevenue": 45639382,
+                "HighValueOrders": 37
+            },
+            {
+                "Nation": "Shar",
+                "LateOrders": 0.038,
+                "TotalRevenue": 8317624,
+                "HighValueOrders": 7
+            },
+            {
+                "Nation": "Tethyr",
+                "LateOrders": 0.037,
+                "TotalRevenue": 91607230,
+                "HighValueOrders": 58
+            },
+            {
+                "Nation": "Turmish",
+                "LateOrders": 0.037,
+                "TotalRevenue": 78264294,
+                "HighValueOrders": 43
+            }
+        ],
+        "TotalRevenue": 813962845
+    },
+    "North": {
+        "Nations": [
+            {
+                "Nation": "Baldur's Gate",
+                "LateOrders": 0.036,
+                "TotalRevenue": 116834550,
+                "HighValueOrders": 171
+            },
+            {
+                "Nation": "Cormanthar",
+                "LateOrders": 0.037,
+                "TotalRevenue": 18474329,
+                "HighValueOrders": 34
+            },
+            {
+                "Nation": "Cormyr",
+                "LateOrders": 0.034,
+                "TotalRevenue": 81039824,
+                "HighValueOrders": 328
+            },
+            {
+                "Nation": "Damara",
+                "LateOrders": 0.032,
+                "TotalRevenue": 41191090,
+                "HighValueOrders": 36
+            },
+            {
+                "Nation": "Dwarfholds",
+                "LateOrders": 0.032,
+                "TotalRevenue": 88404666,
+                "HighValueOrders": 105
+            },
+            {
+                "Nation": "Icewind Dale",
+                "LateOrders": 0.034,
+                "TotalRevenue": 18760041,
+                "HighValueOrders": 14
+            },
+            {
+                "Nation": "Impiltur",
+                "LateOrders": 0.034,
+                "TotalRevenue": 80286894,
+                "HighValueOrders": 149
+            },
+            {
+                "Nation": "Luskan",
+                "LateOrders": 0.035,
+                "TotalRevenue": 42156416,
+                "HighValueOrders": 28
+            },
+            {
+                "Nation": "Mereu",
+                "LateOrders": 0.032,
+                "TotalRevenue": 11175375,
+                "HighValueOrders": 10
+            },
+            {
+                "Nation": "Moray",
+                "LateOrders": 0.035,
+                "TotalRevenue": 21598206,
+                "HighValueOrders": 16
+            },
+            {
+                "Nation": "Neverwinter",
+                "LateOrders": 0.033,
+                "TotalRevenue": 37878642,
+                "HighValueOrders": 92
+            },
+            {
+                "Nation": "Sembia",
+                "LateOrders": 0.038,
+                "TotalRevenue": 91725422,
+                "HighValueOrders": 214
+            },
+            {
+                "Nation": "Silverymoon",
+                "LateOrders": 0.037,
+                "TotalRevenue": 96209661,
+                "HighValueOrders": 280
+            },
+            {
+                "Nation": "Vaasa",
+                "LateOrders": 0.031,
+                "TotalRevenue": 46261718,
+                "HighValueOrders": 178
+            },
+            {
+                "Nation": "Waterdeep",
+                "LateOrders": 0.036,
+                "TotalRevenue": 94030987,
+                "HighValueOrders": 52
+            }
+        ],
+        "TotalRevenue": 886027821
+    },
+    "Underdark": {
+        "Nations": [
+            {
+                "Nation": "Blingdenstone",
+                "LateOrders": 0.042,
+                "TotalRevenue": 6310125,
+                "HighValueOrders": 3
+            },
+            {
+                "Nation": "Gracklstugh",
+                "LateOrders": 0.034,
+                "TotalRevenue": 11206383,
+                "HighValueOrders": 7
+            },
+            {
+                "Nation": "Mantol Dereith",
+                "LateOrders": 0.038,
+                "TotalRevenue": 1919178,
+                "HighValueOrders": 1
+            },
+            {
+                "Nation": "Menzoberranzan",
+                "LateOrders": 0.032,
+                "TotalRevenue": 9180342,
+                "HighValueOrders": 2
+            }
+        ],
+        "TotalRevenue": 28616028
+    }
+}
